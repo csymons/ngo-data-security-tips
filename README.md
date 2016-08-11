@@ -2,6 +2,8 @@
 
 A list of tips for NGOs to keep their data _secure_.
 
+For a comprehensive guide check out [ssd.eff.org](https://ssd.eff.org/en/playlist/activist-or-protester)
+
 Types of attack of most concern to NGOs:
 
 ## An attacker wandering in and taking the computer or device
@@ -15,6 +17,8 @@ To plan for this:
 * Use end-to-end encrypted chats whose history automatically clears.
 
 ## An attacker obtaining access to a team member's account
+
+This can happen with or without the team member's cooperation.
 
 To plan for this:
 * Avoid group chats when discussing anything private.
