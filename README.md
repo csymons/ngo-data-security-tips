@@ -15,6 +15,7 @@ To plan for this:
 * Keep phones and devices encrypted.
 * Enable devices to be wiped remotely.
 * Use end-to-end encrypted chats whose history automatically clears.
+* Don’t write anything in emails, chat or online that you wouldn’t want read back in court.
 
 ## An attacker obtaining access to a team member's account
 
